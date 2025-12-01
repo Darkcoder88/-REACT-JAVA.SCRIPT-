@@ -1,0 +1,24 @@
+{
+  "name": "Neon Chat - Real-time Messaging",
+  "short_name": "Neon Chat",
+  "description": "WhatsApp-like chat app with neon theme",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0f2e",
+  "theme_color": "#1a0f2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
